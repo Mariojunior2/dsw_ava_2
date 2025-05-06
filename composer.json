@@ -1,0 +1,18 @@
+{
+    "name": "mario.junior2/dsw_ava_2",
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "MarioJunior2\\DswAva2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mario.junior2",
+            "email": "mario.junior2@alunos.sc.senac.br"
+        }
+    ]
+}
