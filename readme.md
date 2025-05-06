@@ -117,7 +117,7 @@ dsw_ava_2/
 Licença: [MIT](https://opensource.org/licenses/MIT).  
 ``` 
 
-### Observações:  
+ Observações:  
 - Substitua `https://github.com/seu-usuario/dsw_ava_2.git` pelo link real do seu repositório.  
 - Formatação compatível com GitHub Markdown.  
 - Dados pessoais e técnicos já inseridos conforme especificado.
